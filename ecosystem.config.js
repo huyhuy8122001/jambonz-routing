@@ -12,10 +12,10 @@ module.exports = {
       NODE_ENV: 'production',
       LOGLEVEL: 'info',
       HTTP_PORT: 3001,
-      JAMBONZ_ACCOUNT_SID: '6ca847a9-0db6-4f10-8be7-2214d317c5e0',
-      JAMBONZ_API_KEY: 'd11af09a-e6eb-4dbf-bd18-10fdbdf5d946',
+      JAMBONZ_ACCOUNT_SID: '9351f46a-678c-43f5-b8a6-d4eb58d131af',
+      JAMBONZ_API_KEY: '1cf2f4f4-64c4-4249-9a3e-5bb4cb597c2a',
       JAMBONZ_REST_API_BASE_URL: 'https://cpaas61.epacific.net',
-      WEBHOOK_SECRET: 'wh_secret_kZmRWetkAuBP8gEWYwDfqW',
+      WEBHOOK_SECRET: 'wh_secret_cJqgtMDPzDhhnjmaJH6Mtk',
       HTTP_PASSWORD: '',
       HTTP_USERNAME: '',
     }
